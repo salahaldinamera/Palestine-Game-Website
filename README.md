@@ -1,1 +1,1 @@
-# palestine-game.github.io
+# Palestine-Game-Website
